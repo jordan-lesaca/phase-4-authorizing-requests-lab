@@ -23,3 +23,4 @@ class MembersOnlyArticlesController < ApplicationController
   end 
 
 end
+
